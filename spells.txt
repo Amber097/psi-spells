@@ -1,0 +1,2 @@
+# MoveForward
+{modsRequired:[{modVersion:"1.16-94",modName:"psi"}],spellName:"MoveForward",uuidMost:-5870091244451182396L,validSpell:1b,spellList:[{data:{params:{_target:4},key:"psi:connector"},x:3,y:3},{data:{params:{_target:1},key:"psi:operator_entity_look"},x:3,y:4},{data:{key:"psi:selector_caster"},x:4,y:3},{data:{params:{_direction:3,_speed:2,_target:1},key:"psi:trick_add_motion"},x:4,y:4},{data:{key:"psi:constant_number",constantValue:"3"},x:4,y:5}],uuidLeast:-4831920762952593723L}
